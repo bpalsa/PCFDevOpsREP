@@ -1,0 +1,9 @@
+.DynamicInputPCF textarea { 
+    padding: 5px; 
+    box-sizing: border-box;
+    width: 100%; 
+}
+            
+.DynamicInputPCF textarea:focus, .DynamicInputPCF textarea:enabled:hover { 
+    border: 2px solid black;
+} 
